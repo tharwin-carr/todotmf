@@ -2,11 +2,11 @@
 
 A simple todo app built using react hooks.
 
-Template Used: https://github.com/tastejs/todomvc/tree/master/examples/react-hooks
+<strong>Template Used:</strong> https://github.com/tastejs/todomvc/tree/master/examples/react-hooks
 
-A live demo is available at: https://todotmf.vercel.app/#/
+<strong>A live demo is available at:</strong> https://todotmf.vercel.app/#/
 
-I added two features to the Todo app:
+## I added two features to the Todo app:
 
 <ul>
   <li>Added a feature that shows the number of todos in each category
@@ -29,7 +29,7 @@ I added two features to the Todo app:
   </li>
  </ul>
 
-My additions to the project:
+## My additions to the project:
 
 <ul>
   <li>
@@ -43,11 +43,11 @@ My additions to the project:
   </li>
 </ul>
 
-Possible Improvements:
+## Possible Improvements:
 
   <ul>
     <li>
-      The CSS could use some work. I am going to go back and challenge myself to make the app look better
+      For the most part, I kept the CSS the same. I could possibly improve the project by adding a personal styling touch.
     </li>
   </ul>
 
