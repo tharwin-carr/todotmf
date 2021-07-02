@@ -1,0 +1,20 @@
+.urgent-btn-active {
+	margin-left: 15px;
+	cursor: pointer;
+	text-align: center;
+	color: red;
+	border: none;
+	border-radius: 10px;
+	padding: 5px;
+}
+
+.urgent-btn {
+	margin-left: 15px;
+	cursor: pointer;
+	text-align: center;
+	color: red;
+	opacity: 0.2;
+	border: none;
+	border-radius: 10px;
+	padding: 5px;
+}
