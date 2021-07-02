@@ -1,9 +1,3 @@
-# Hooks TODO
-
-A simple todo app built using react hooks.
-
-A live demo is available at: https://todotmf.vercel.app/#/
-
 # TODO
 
 A simple todo app built using react hooks.
@@ -34,8 +28,16 @@ I added two features to the Todo app:
     </ul>
   </li>
  </ul>
- 
 
+At the bottom of the app I did add a link to my GitHub and also my LinkedIn.
+
+Possible Improvements:
+
+  <ul>
+    <li>
+      The CSS could use some work. I am going to go back and challenge myself to make the app look better
+    </li>
+  </ul>
 
 ## Available Scripts
 
