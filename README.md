@@ -4,6 +4,39 @@ A simple todo app built using react hooks.
 
 A live demo is available at: https://todotmf.vercel.app/#/
 
+# TODO
+
+A simple todo app built using react hooks.
+
+Template Used: https://github.com/tastejs/todomvc/tree/master/examples/react-hooks
+
+A live demo is available at: https://todotmf.vercel.app/#/
+
+I added two features to the Todo app:
+
+<ul>
+  <li>Added a feature that shows the number of todos in each category
+    <ul>
+       <li>
+         This was a small feature I added just to give a visual of how many tasks there are in each category.         
+      </li>      
+    </ul>      
+  </li>
+  <li>Added a feature that allows the user to mark a todo as 'urgent'. 
+    If the task is marked as urgent it will appear in the urgent tab and
+    also have a red urgent tag next to it.
+    <ul>
+      <li>
+        I added this feature because I like to prioritize my tasks and try to
+        complete urgent tasks first. This feature highlights urgent tasks and 
+        helps makes them easier to find.
+      </li>
+    </ul>
+  </li>
+ </ul>
+ 
+
+
 ## Available Scripts
 
 In the project directory, you can run:
