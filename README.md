@@ -1,7 +1,8 @@
 # Hooks TODO
+
 A simple todo app built using react hooks.
 
-A live demo is available at: https://jacob-ebey.github.io/hooks-todo/
+A live demo is available at: https://todotmf.vercel.app/#/
 
 ## Available Scripts
 

@@ -9,8 +9,18 @@ export default function Footer() {
 				Created by <a href='http://github.com/jacob-ebey/'>jacob-ebey</a>
 			</p>
 			<p>
-				Updated by <a href='https://github.com/tharwin-carr'>tharwin-carr</a>
+				Updated by <a href='https://github.com/tharwin-carr'>tharwin-carr </a>
+				<span>
+					<a href='https://www.linkedin.com/in/tharwin-carr/'>
+						<img
+							className='linkedin'
+							src='https://img.icons8.com/ios-filled/12/000000/linkedin.png'
+							alt='LinkedIn'
+						/>
+					</a>
+				</span>
 			</p>
+
 			<p>
 				Part of <a href='http://todomvc.com'>TodoMVC</a>
 			</p>
