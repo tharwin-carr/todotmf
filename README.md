@@ -1,7 +1,7 @@
-# Hooks TODO
+# TODO
 A simple todo app built using react hooks.
 
-Template Used: https://github.com/tastejs/todomvc/tree/gh-pages/examples/react
+Template Used: https://github.com/tastejs/todomvc/tree/master/examples/react-hooks
 
 A live demo is available at: https://todotmf.vercel.app/#/
 
@@ -10,8 +10,10 @@ I added two features to the Todo app:
   <li>Added a feature that shows the number of todos in each category</li>
   <li>Added a feature that allows the user to mark a todo as 'urgent'. 
     If the task is marked as urgent it will appear in the urgent tab and
-    also have a red urgent tag next to it.<li>
+    also have a red urgent tag next to it.</li>
  </ul>
+ 
+ 
 
 ## Available Scripts
 
